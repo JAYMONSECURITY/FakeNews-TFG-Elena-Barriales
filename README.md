@@ -1,5 +1,10 @@
 # FakeNews-TFG-Elena-Barriales
-Fake News analysis of the US election campaign
+FACULTAD DE COMUNICACIÓN Y HUMANIDADES. GRADO EN CRIMINOLOGÍA Y SEGURIDAD. UNIVERSIDAD CAMILO JOSÉ CELA. MADRID.
+Autor: Elena Barriales Fernández.
+Tutor: Michelle Madeline Cámara Mora.
+Asesor Técnico: Juan Miguel Rosa Mondragón.
+
+Fake News analysis of the US election campaign.
 It deals with the analysis of Fake News in the electoral campaign of the United States. However, the code can be extended to any other scope.
 
 To put the platform into operation, the following steps must be followed:
@@ -8,4 +13,6 @@ To put the platform into operation, the following steps must be followed:
 2. Import from phpmyadmin the file "BBDD.sql".
 3. Copy the rest of the files to the root of the web server (eg "C:/xampp/htdocs/").
 4. Open "Http://localhost/" in the browser.
+
+
 

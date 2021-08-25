@@ -12,7 +12,7 @@ To put the platform into operation, the following steps must be followed:
 1. Install and activate a web server (apache) and a MySQL server. Xampp is a good platform for it, under Windows system.
 2. Import from phpmyadmin the file "BBDD.sql".
 3. Copy the rest of the files to the root of the web server (eg "C:/xampp/htdocs/").
-4. Open "Http://localhost/" in the browser.
+4. Open "Http://localhost/" in the browser. Control panel credentials: User "FakeNews" Pass: "FakeNews".
 
 
 

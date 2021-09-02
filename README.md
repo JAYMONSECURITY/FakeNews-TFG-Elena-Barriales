@@ -1,7 +1,12 @@
 # FakeNews-TFG-Elena-Barriales
-FACULTAD DE COMUNICACIÓN Y HUMANIDADES. GRADO EN CRIMINOLOGÍA Y SEGURIDAD. UNIVERSIDAD CAMILO JOSÉ CELA. MADRID.
+Universidad Camilo José Cela - Madrid
+
+Facultad de comunicación y humanidades - Grado en Criminología y Seguridad. 
+
 Autor: Elena Barriales Fernández.
+
 Tutor: Michelle Madeline Cámara Mora.
+
 Asesor Técnico: Juan Miguel Rosa Mondragón.
 
 Fake News analysis of the US election campaign.

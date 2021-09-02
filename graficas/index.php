@@ -39,10 +39,10 @@ integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQV
             <a href="./rrss.php">Uso de redes sociales (RRSS) para Fake News por candidato.</a> <br><br>
             <a href="./face2face.php">Fake News en discursos, reuniones y debates por candidato.</a> <br><br>
             <a href="./respeto.php">Faltas de respeto por candidato.</a> <br><br>
-            <a href="./.php">Meses de 2020 con mayor cantidad de Fake News.</a> <br><br>
-             <a href="./.php">Meses de 2021 con mayor cantidad de Fake News.</a> <br><br>
-            <a href="./.php">Tipo de bulos más empleados por Trump.</a> <br><br>
-            <a href="./.php">Tipo de bulos más empleados por Biden.</a> <br><br>
+            <a href="./fakes2019.php">Meses de 2019 con mayor cantidad de Fake News.</a> <br><br>
+             <a href="./fakes2020.php">Meses de 2020 con mayor cantidad de Fake News.</a> <br><br>
+            <a href="./bulotrump.php">Tipo de bulos más empleados por Trump.</a> <br><br>
+            <a href="./bulobiden.php">Tipo de bulos más empleados por Biden.</a> <br><br>
 
 
                 </div> <!--End col-md-8-->

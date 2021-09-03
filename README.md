@@ -1,5 +1,5 @@
 # FakeNews-TFG-Elena-Barriales
-**Universidad Camilo José Cela - Madrid. Facultad de comunicación y humanidades - Grado en Criminología y Seguridad. **
+**Universidad Camilo José Cela - Madrid. Facultad de comunicación y humanidades - Grado en Criminología y Seguridad.**
 
 **Autor: Elena Barriales Fernández.** https://www.linkedin.com/in/elena-barriales-fernández-bb11841a3/
 

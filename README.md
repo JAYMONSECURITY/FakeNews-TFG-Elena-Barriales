@@ -1,15 +1,14 @@
 # FakeNews-TFG-Elena-Barriales
-Universidad Camilo José Cela - Madrid
+**Universidad Camilo José Cela - Madrid. Facultad de comunicación y humanidades - Grado en Criminología y Seguridad. 
 
-Facultad de comunicación y humanidades - Grado en Criminología y Seguridad. 
+**Autor: Elena Barriales Fernández. https://www.linkedin.com/in/elena-barriales-fernández-bb11841a3/
 
-Autor: Elena Barriales Fernández.
+**Tutor: Michelle Madeline Cámara Mora.  https://www.linkedin.com/in/michelle-madeline-cámara-mora-5831a071/
 
-Tutor: Michelle Madeline Cámara Mora.
-
-Asesor Técnico: Juan Miguel Rosa Mondragón.
+**Asesor Técnico: Juan Miguel Rosa Mondragón.  https://www.linkedin.com/in/jaymonsecuritydirector/
 
 Fake News analysis of the US election campaign.
+
 It deals with the analysis of Fake News in the electoral campaign of the United States. However, the code can be extended to any other scope.
 
 To put the platform into operation, the following steps must be followed:
